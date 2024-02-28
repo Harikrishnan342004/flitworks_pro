@@ -999,7 +999,7 @@ textarea {
   box-shadow: 2px 2px 8px rgba(0, 0, 0, 0.1);
 }
 #chatbot-toggler img {
-  right: 10px;
+  right: 9px;
   position: fixed;  /* --------------------------------- */
   bottom: 2px;
   object-fit: cover;
